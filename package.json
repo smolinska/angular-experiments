@@ -1,0 +1,11 @@
+{
+  "name": "angular-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:smolinska/angular-experiments.git",
+  "author": "smolinska <smolinska.ps@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

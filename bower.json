@@ -1,0 +1,19 @@
+{
+  "name": "angular-experiments",
+  "authors": [
+    "smolinska <smolinska.ps@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "jquery": "^3.2.1",
+    "angular": "^1.6.4",
+    "jquery-migrate": "^3.0.0"
+  }
+}
