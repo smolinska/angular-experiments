@@ -1,4 +1,4 @@
-var marvelApp = angular.module('marvelApp', []);
+const marvelApp = angular.module('marvelApp', []);
 
 marvelApp.controller('marvelController', function () {
 
